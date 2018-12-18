@@ -1,6 +1,6 @@
 # Build your own Navy (by ship class)
 ![](screenshots/navy+graphic.png "")
-<p align="center">
+<p align="center"><br> 
 [Link to app on analytics.csis.org](http://analytics.csis.org/navy-/)<p/> 
 We designed this app to give our users the ability to build their own Navy force structure. In seconds, you can see the impact of the Navy's plan, as well as the impact of thousands of different plans. The app allows you to build more ships, retire existing ships, develop new ships, and change the build rate. And this goes far beyond the number of ships. We've included acquisition cost, operations and support costs, personnel numbers, aircraft capacity, and much more.<br/> 
 
